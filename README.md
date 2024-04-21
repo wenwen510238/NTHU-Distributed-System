@@ -60,7 +60,8 @@ The CI/CD runs in [Github Actions](https://github.com/features/actions). See the
 
 ## Test
 1.showing the metrics
-![image](https://github.com/wenwen510238/NTHU-Distributed-System/assets/94843261/0414f0d0-a638-4d43-8389-fc42d5cd03dc)
+![premetheus](https://github.com/wenwen510238/NTHU-Distributed-System/assets/94843261/56e2e3dd-aee6-41d6-aea5-9038a27f24e4)
 
 2. passing the otelkit tests
-![image](https://github.com/wenwen510238/NTHU-Distributed-System/assets/94843261/827cf3ba-fc73-4392-8938-596b3624ebc7)
+![otlkit](https://github.com/wenwen510238/NTHU-Distributed-System/assets/94843261/69ecfafc-837d-4d69-87dc-8025872b305c)
+

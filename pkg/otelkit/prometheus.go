@@ -92,7 +92,7 @@ func NewPrometheusServiceMeter(ctx context.Context, conf *PrometheusServiceMeter
 
 	// initiate error request counter
 	// TODO
-	errorRequestCounter, err := meter.SyncInt64().Counter("request", instrument.WithDescription("count number of error requests"))
+	errorRequestCounter, err := meter.SyncInt64().Counter("error_request", instrument.WithDescription("count number of error requests"))
 	if err != nil {
 		logger.Fatal("failed to create error requests counter", zap.Error(err))
 

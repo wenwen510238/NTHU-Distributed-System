@@ -57,3 +57,12 @@ To build docker image, run `make dc.image`.
 ## CI/CD
 
 The CI/CD runs in [Github Actions](https://github.com/features/actions). See the [CI workflow spec](.github/workflows/main.yml) and the [CD workflow spec](.github/workflows/deployment.yml) for more details.
+
+## Test
+1. Unit testing
+
+![kafka](https://github.com/wenwen510238/NTHU-Distributed-System/assets/94843261/26d0aa3e-2f66-4567-9838-b8d889127799)
+
+2. See a record with “Variants” has 4 different values and map to 4 URLs
+
+![video-test](https://github.com/wenwen510238/NTHU-Distributed-System/assets/94843261/a8cb9e9e-61a4-4b87-90d2-4fe5a41c1274)
